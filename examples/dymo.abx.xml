@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddressBook Version="8.0" DefaultPermutation="true" Format="Native">
+  <AddressEntry>
+    <AddressData>Hannah Thompson
+3 Acacia Avenue
+Sometown-On-Sea
+South Countyshire
+DF5 6GH
+</AddressData>
+    <Name>
+      <FirstName>Hannah</FirstName>
+      <LastName>Thompson</LastName>
+      <FileAs>Hannah Thompson</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Jane Watson
+2 High St
+Another Town
+Somewhereshire
+ZZ1 2AA
+</AddressData>
+    <Name>
+      <FirstName>Jane</FirstName>
+      <LastName>Watson</LastName>
+      <FileAs>Jane Watson</FileAs>
+    </Name>
+  </AddressEntry>
+  <AddressEntry>
+    <AddressData>Tom Smith
+27 The Street
+Sometown
+A County
+AB1 2CD
+</AddressData>
+    <Name>
+      <FirstName>Tom</FirstName>
+      <LastName>Smith</LastName>
+      <FileAs>Tom Smith</FileAs>
+    </Name>
+  </AddressEntry>
+</AddressBook>
